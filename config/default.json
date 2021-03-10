@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://vik753:vik753@cluster0.mrmnt.mongodb.net/mern-minin?retryWrites=true&w=majority",
+  "jwtSecret": "cewnioonjn-354-JHn-sdfsd",
+  "baseUrl": "http://localhost:5000"
+}
